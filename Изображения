@@ -1,0 +1,72 @@
+#**********************************1********************************
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE> Графика </TITLE>
+</HEAD>
+<BODY>
+<H1 ALIGN=CENTER> Горизонтальная линия </H1>
+<HR ALIGN=LEFT SIZE=50 WIDTH=50 COLOR=RED>
+<HR SIZE=100 WIDTH=2 COLOR=GREEN>
+<HR ALIGN=RIGHT SIZE=40 WIDTH=120 COLOR=BLACK>
+<HR ALIGN=CENTER SIZE=2 WIDTH=100 COLOR=BLUE>
+</BODY>
+</HTML>
+#**********************************2********************************
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE> Графика </TITLE>
+</HEAD>
+<BODY>
+<H1 ALIGN=CENTER> Рисунки в HTML-документах </H1>
+<IMG SRC="images.jpg" ALT="Это рисунок"
+HEIGHT=200 WIDTH=150 ALIGN=RIGHT BORDER=4>
+</BODY>
+</HTML>
+#**********************************3********************************
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE> Графика </TITLE>
+</HEAD>
+<BODY>
+<HR ALIGN=CENTER SIZE=15 WIDTH=300 COLOR=DARKRED>
+<HR ALIGN=CENTER SIZE=15 WIDTH=300 COLOR=RED>
+<HR ALIGN=CENTER SIZE=15 WIDTH=300 COLOR=YELLOW>
+<HR ALIGN=CENTER SIZE=15 WIDTH=300 COLOR=GREEN>
+<HR ALIGN=CENTER SIZE=15 WIDTH=300 COLOR=AQUA>
+<HR ALIGN=CENTER SIZE=15 WIDTH=300 COLOR=DARKBLUE>
+<HR ALIGN=CENTER SIZE=15 WIDTH=300 COLOR=PURPLE>
+</BODY>
+</HTML>
+#**********************************4********************************
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE> Задание 4 </TITLE>
+</HEAD>
+<BODY>
+<H1 ALIGN=CENTER> <FONT COLOR=BLUE> Елочка </FONT> 
+<P> <FONT COLOR=RED> В </FONT> лесу родилась елочка,
+<P> В лесу она росла.
+<P> Зимой и летом стройная,
+<P> Зеленая была
+<P> <IMG SRC="images.jpg" 
+HEIGHT=200 WIDTH=150 ALIGN=CENTER BORDER=4>
+<P> <FONT COLOR=BLUE>М</FONT>етель ей пела песенку:
+<P>-Спи, елочка, бай-бай.
+<P>Мороз снежком укутывал:
+<P>-Смотри, не замерзай.</H1>
+</BODY>
+</HTML>
+#**********************************5********************************
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE> Задание 5</TITLE>
+</HEAD>
+<BODY>
+<H1 ALIGN=CENTER> <FONT COLOR=DARKRED> <B> Живой кефирный тибесткий гриб </B> </FONT></H1>
+<P> <IMG SRC="Без названия.jpg" WIDTH=150 BORDER=4> Полученный с его помощью кефир является уникальным лечебным препаратом, помогающим бороться с аллергией, гипертронией, язвенной болезнью желудка и двенадцатиперстной кишки. Его употребление нормализует кишечную микрофлору. Кефир, получаемый в результате жизнедеятельности гриба, оказывает общее оздоровительное действие и стимулирует иммунитет. 
+<H1 ALIGN=CENTER> <FONT COLOR=PURPLE> <B> Кефирный гриб для похудения </B> </FONT></H1>
+<P> <IMG SRC="5b8283a92b650cdeed030202d28b5b36.jpg"  WIDTH=150 ALIGN=RIGHT BORDER=4> Настой тибетского молочного гриба снижает вес при ожирении. Весь его секрет в том, что он преобразует жиры в более простые соединения, которые затем сам же и выводит из организма человека. Для того чтобы похудеть, следует пить настой тибетского молочного гриба ежедневно через полчаса после еды и один-два раза в неделю устраивать разгрузочные дни.
+</BODY>
+</HTML>
+
+
