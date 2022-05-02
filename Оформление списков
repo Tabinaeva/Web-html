@@ -1,0 +1,132 @@
+#************************************1**********************************
+<HTML>
+<HEAD>
+<TITLE> Задание 1 </TITLE>
+</HEAD>
+<BODY>
+<H1 ALIGN+CENTER> Нумерованный список </H1>
+<OL>
+<LI> Принтер
+<LI> Сканер
+<LI> Монитор
+</OL>
+</HTML>
+#************************************2**********************************
+<HTML>
+<HEAD>
+<TITLE> Задание 2 </TITLE>
+</HEAD>
+<BODY>
+<H1 ALIGN+CENTER> Маркированные списки </H1>
+<UL TYPE=CIRCLE>
+<LI> Принтер
+<LI> Сканер
+<LI> Монитор
+</UL>
+<UL TYPE=DISC>
+<LI> Принтер
+<LI> Сканер
+<LI> Монитор
+</UL>
+<UL TYPE=SQUARE>
+<LI> Принтер
+<LI> Сканер
+<LI> Монитор
+</UL>
+</HTML>
+#************************************3**********************************
+<HTML>
+<HEAD>
+<TITLE> Задание 3 </TITLE>
+</HEAD>
+<BODY>
+<H1> <FONT COLOR=BLUE> Расписание уроков</FONT> </H1>
+<OL>
+<LI> Математика
+<LI> Физика
+<LI> Химия 
+<LI> История
+<LI> Информатика
+</OL>
+</HTML>
+#************************************4**********************************
+<HTML>
+<HEAD>
+<TITLE> Задание 4 </TITLE>
+</HEAD>
+<BODY>
+<body bgcolor="lightblue">
+<H1 ALIGN=CENTER> <FONT COLOR=blue> Разделы математики </FONT> </H1>
+<H1 ALIGN=CENTER> <FONT COLOR=red> Алгебра </FONT> </H1>
+<UL TYPE=DISC>
+<LI> Тригонометрия
+<LI> Логарифмы
+<LI> Дроби
+</UL>
+<H1 ALIGN=CENTER> <FONT COLOR=red> Геометрия </FONT> </H1>
+<UL TYPE=DISC>
+<LI> Планеметрия
+<LI> Стереометрия
+</UL>
+</HTML>
+#************************************5**********************************
+<HTML>
+<HEAD>
+<TITLE> Задание 5 </TITLE>
+</HEAD>
+<BODY>
+<body bgcolor="palegreen">
+<H1 ALIGN=CENTER> <FONT COLOR=firebrick> Прикладные программы </FONT> </H1>
+<OL>
+<LI> Текстовые редакторы
+<LI> Графические редакторы
+<LI> Электронные табюлицы
+<LI> Системы компьютерной математики
+</OL>
+<UL TYPE=DISC>
+<LI> Mathematica
+<LI> MathCad
+<LI> Maple
+</UL>
+</HTML>
+#************************************6**********************************
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE> Задание 6 </TITLE>
+</HEAD>
+<BODY>
+<body bgcolor="LightSalmon"> <H1 ALIGN=CENTER> <FONT COLOR=DarkBlue> Хищники </FONT> </H1>
+<OL>
+<FONT COLOR=red> <LI> <I><span><B> Медвежьи </B></span></li></FONT> </I>
+</OL>
+<UL>
+<FONT COLOR=green><B> <LI><span> Медведи </span></li></B></FONT>
+</UL>
+<UL TYPE="CIRCLE">
+<LI> Бурый медведь, Белый медведь
+</UL>
+<UL>
+<FONT COLOR=green> <B> <LI> <span>Панды </span></li></B> </FONT>
+</UL>
+<UL TYPE="CIRCLE">
+<LI> Большая панда, Малая панда
+</UL>
+<OL TYPE="1" START="2">
+<FONT COLOR=red> <LI> <I><span> <B>Собачьи </B></span></li></FONT> </I>
+</OL>
+<FONT COLOR=green> <B> <LI> <span>Волки </span></li></B> </FONT>
+</UL>
+<UL TYPE="CIRCLE">
+<LI> Шакал, Красный волк
+</UL>
+<UL>
+<FONT COLOR=green> <B> <LI> <span> Лисы </span></li></B> </FONT>
+</UL>
+<UL TYPE="CIRCLE">
+<LI> Лиса рыжая,Фенек
+</UL>
+</BODY>
+</HTML>
+
+
+
