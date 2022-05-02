@@ -1,0 +1,131 @@
+#*****************************1****************************
+<HTML>
+<HEAD>
+<TITLE> Стихотворение </TITLE>
+</HEAD>
+  <BODY>
+    <H1> Александр Блок </H1>
+    <P> Ночь. Улица. Фонарь. Аптека. <BR>
+    Бессмысленный и тусклый свет. <BR>
+    Живи еще хоть четверть века - <BR>
+    Все будет так. Исхода нет. <P/>
+    <P> Умрешь, начнешь опять сначала <BR>
+    И повторяется все, как встарь: <BR>
+    Ночь. Ледяная мгла канала. <BR>
+    Аптека. Улица. Фонарь. </P>
+</BODY>
+</HTML>
+#*****************************2****************************
+<HTML>
+<HEAD>
+<TITLE> Задание 2 </TITLE></HEAD>
+<BODY>
+<H1 ALIGN=CENTER>Оформление текстов на веб-страницах</H1>
+<B>Жирный текст</I><BR>
+<I>Курсивный текст</I><BR>
+<U>Подчеркнутый текст</U><BR>
+<S>Зачеркнутый текст</S><BR>
+E=mc<SUP>2</SUP>-Верхний индекс<BR>
+H<SUB>2</SUB>-Нижний индекс<BR>
+<H1 ALIGN=CENTER> Оформление шрифтов </H1>
+<P><FONT SIZE=6>Это шрифт размера 6 </FONT></P>
+<P>
+<FONT SIZE=4 COLOR=red> Это красный шрифт размера 4 </FONT>
+</P>
+<P> <FONT SIZE=5 COLOR=000088 FACE="Monotype Corsiva"> Это 
+синий шрифт Monotype Corsiva размером 5 </FONT></P>
+</BODY>
+</HTML>
+#*****************************3****************************
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE> Задание 3 </TITLE>
+</HEAD>
+<BODY>
+<body style="color: Yellow; background-color:#FFD700">
+<H1 ALIGN=CENTER><FONT COLOR=red><B> Информатика </B></H1></FONT>
+</BODY>
+</HTML>
+#*****************************4****************************
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE> Задание 4 </TITLE>
+</HEAD>
+<BODY>
+<P ALIGN=RIGHT><B> <FONT COLOR=red> К </B></FONT> А
+<FONT SIZE=4 COLOR=blue> <I> Н </I> </FONT> И 
+<FONT COLOR=green> <U> К </U> </FONT> УЛЫ </>
+</BODY>
+</HTML>
+#*****************************5****************************
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE> Задание 5 </TITLE>
+</HEAD>
+<body bgcolor="F0E68C"> 
+<P ALIGN=CENTER> <B> <FONT COLOR=red> Новогодняя </B></FONT>
+<P ALIGN=CENTER><B> <FONT COLOR=red> В </FONT> </B> лесу родилась елочка, 
+<P ALIGN=CENTER>В лесу она росла. 
+<P ALIGN=CENTER>Зимой и летом стройная,
+<P ALIGN=CENTER>Зеленая была.
+<P>
+<P ALIGN=CENTER><B> <FONT COLOR=blue>М</FONT></B>етель ей пела псенку:
+<P ALIGN=CENTER>-Спи, елочка, бай-бай.
+<P ALIGN=CENTER>Мороз снежком укутывал: 
+<P ALIGN=CENTER>-Смотри, не замерзай. 
+</BODY>
+</HTML>
+#*****************************6****************************
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE> Задание 6 </TITLE>
+</HEAD>
+<BODY>
+<P ALIGN=RIGHT> <B> <FONT SIZE=2 COLOR=red>П</FONT> 
+<FONT SIZE=3 COLOR=yellow>Р</FONT>
+<FONT SIZE=4 COLOR=yellowgreen>И</FONT>
+<FONT SIZE=5 COLOR=blue>В</FONT>
+<FONT SIZE=6 COLOR=maroon>Е</FONT>
+<FONT SIZE=7 COLOR=purple>Т</FONT> </P> </B>
+<P> <B> <FONT SIZE=7 COLOR=royalblue>П</FONT>
+<FONT SIZE=6 COLOR=orange>Р</FONT>
+<FONT SIZE=5 COLOR=red>И</FONT>
+<FONT SIZE=4 COLOR=aqua>В</FONT>
+<FONT SIZE=3 COLOR=lime>Е</FONT>
+<FONT SIZE=2 COLOR=maroon>Т</FONT> </P> </B>
+<P ALIGN=CENTER> <B> <FONT SIZE=7 COLOR=RED>П</FONT>
+<FONT SIZE=6 COLOR=RED>Р</FONT>
+<FONT SIZE=5 COLOR=BLUE>И</FONT>
+<FONT SIZE=5 COLOR=BLUE>В</FONT>
+<FONT SIZE=6 COLOR=LIME>Е</FONT>
+<FONT SIZE=7 COLOR=LIME>Т</FONT> </B> </P>
+</BODY>
+</HTML>
+#*****************************7****************************
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE> Задание 7 </TITLE>
+</HEAD>
+<BODY>
+<body bgcolor="F0E68C"> 
+<P ALIGN=CENTER> <I> <B> <FONT COLOR=red> Бегущая строка </FONT> </B> </I> </P>
+<P> Язык <B><FONT COLOR=darkblue> <U> HTML </U> </FONT></B> позволяет задавать движение для различных текстов.</P>
+<P ALIGN=RIGHT> <I> Например, </I> можно заставить слово </P>
+<P> <I> <FONT COLOR=red> <B> ИНФОРМАТИКА </B> </FONT> </I> </P>
+<P> двигаться <B><FONT COLOR=sienna> вправо</FONT><FONT COLOR=rosybrown>, влево, </FONT> <FONT COLOR=deepskyblue> вверх </FONT> 
+</B> и <B><FONT COLOR=darkorange> вниз </FONT></B> по экрану. </P>
+<P> Также <B><FONT COLOR=darkblue> <U> HTML </U> </FONT></B> позволяет офрмлять тексты различными</P>
+<P> символами.</P>
+<P ALIGN=RIGHT> <I> Например, </I> отображать в окне браузера текста вида: </P>
+<P> <B> Слово <I> призма</I> происходит от греческого <FONT COLOR=royalblue> &pi;&rho;&iota;&sigma;&mu;&alpha;</FONT> и буквально означает &laquo;<FONT COLOR=mediumseagreen>отпиленное</FONT>&raquo;.
+</BODY>
+</HTML>
+
+
+
+
+
+
+
+
+
