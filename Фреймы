@@ -1,0 +1,110 @@
+#************************************1**************************************
+<html>
+<head>
+<title> Фреймы </title>
+</head>
+<FRAMESET COLS=45%,*>
+<FRAME SRC=1.html> <FRAME SRC=2.html>
+</FRAMESET> 
+</html>
+
+<HTML>
+<HEAD> <TITLE> 1 страница </TITLE> <HEAD>
+<BODY><P> Это документ, отображаемый в первом окне фрейма </P>
+</BODY>
+</HTML>
+
+<HTML>
+<HEAD> <TITLE> 2 страница </TITLE> <HEAD>
+<BODY><P> Это документ, отображаемый во втором окне фрейма </P>
+</BODY>
+</HTML>
+#************************************2**************************************
+<html>
+<head>
+<title> Фреймы </title>
+</head>
+<FRAMESET ROWS=50%,*>
+<FRAME SRC=1.html> <FRAME SRC=2.html>
+</FRAMESET> 
+</html>
+#************************************3**************************************
+
+
+
+
+
+
+
+#************************************4**************************************
+<HTML>
+<HEAD>
+<TITLE> Сложная структура документа </TITLE>
+</HEAD>
+<FRAMESET ROWS=45%,30%,25%>
+<FRAMESET COLS=40%,30%,30%>
+<FRAMESET COLS=50%, 50%>
+<FRAME SRC=Pr2Z1ТабинаеваА.С.html> <FRAME SRC=Pr2Z2Таюинаева.html>
+</FRAMESET>
+<FRAME SRC=Pr2Z3ТабинаеваАС.html> <FRAME SRC=Pr2Z4Табинаева.html>
+</FRAMESET>
+<FRAMESET COLS=60%,40%>
+<FRAME SRC=Pr2Z5Табинаева.html> <FRAME SRC=Pr2Z6Табинаева.html>
+</FRAMESET>
+<FRAMESET COLS=30%,40%,30%>
+<FRAME SRC=Pr2Z7Табинаева.html>
+<FRAME SRC=Pr6_Z4-1.html>
+<FRAME SRC=Pr6_Z4-2.html>
+</FRAMESET>
+</FRAMESET>
+</HTML>
+#************************************5**************************************
+<html>
+<head>
+<title> Фреймы </title>
+</head>
+<FRAMESET COLS=50%,*>
+<FRAME SRC=Z5_1.html> 
+<FRAMESET ROWS=10%,90%,*>
+<FRAME SRC=Z5_2.html NAME=2>
+<FRAME SRC=Z5_3.html NAME=3>
+</FRAMESET> 
+</FRAMESET> 
+</html>
+
+<HEAD>
+<TITLE> 1 </TITLE>
+</HEAD>
+<BODY>
+<body bgcolor="OrangeRed">
+<P> <IMG SRC="шр.png" HEIGHT=200 WIDTH=300> </P>
+<UL>
+<LI> Локальные сети
+<LI> Глобальные сети
+<LI> Интернет
+</UL>
+</BODY>
+</HTML>
+
+<HEAD>
+<TITLE> 2 </TITLE>
+</HEAD>
+<BODY bgcolor="red">
+<H1 ALIGN=CENTER> <FONT COLOR=DARKBLUE> Компьютерные сети </FONT> </H1>
+</BODY>
+</HTML>
+
+<HEAD>
+<TITLE> 3 </TITLE>
+</HEAD>
+<BODY bgcolor="LightPink">
+<B> <I> Компьютерная сеть </I> </B> - это группа компьютеров, связанных между собой при  помощи каналов связи.
+<P> </P>
+<P>Основное назначение компьютерной сети - объединение компьютеров с целью обмена и синхронизации информации.
+<H1 ALIGN=RIGHT> <IMG SRC="donkey_4.JPG" HEIGHT=300 WIDTH=200>
+</BODY>
+</HTML>
+
+
+
+
