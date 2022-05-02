@@ -1,0 +1,291 @@
+#***************************************1************************************
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE> Таблицы </TITLE>
+</HEAD>
+<BODY>
+<H1 ALIGN=CENTER>  Создание таблиц </H1>
+<TABLE BORDER=1>
+<TR>
+<TH> Наименование </TH>
+<TH> Описание</TH>
+<TH> Цена </TH>
+</TR>
+<TR>
+<TD> Mini Tower </TD>
+<TD> ATX 230 Вт Sm30 </TD>
+<TD> 30 </TD>
+</TR>
+<TR>
+<TD> Midi Tower </TD>
+<TD> ATX 230 Вт Sm30 </TD>
+<TD> 33 </TD>
+</TR>
+<TR>
+<TD> Midi Tower </TD>
+<TD> ATX 230 Вт Sm30 </TD>
+<TD> 33 </TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>
+#***************************************2************************************
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE> Таблицы </TITLE>
+</HEAD>
+<BODY>
+<H1 ALIGN=CENTER>  Объединение ячеек </H1>
+<TABLE BORDER=1>
+<TR BGCOLOR=RED>
+<TH> Наименование </TH>
+<TH> Описание</TH>
+<TH> Цена </TH>
+</TR>
+<TR>
+<TD> Ячейка 1 </TD>
+<TD> Ячейка 2 </TD>
+<TD> Ячейка 3 </TD>
+</TR>
+<TR BGCOLOR=GREEN>
+<TD> Ячейка 4 </TD>
+<TD COLSPAN=2> Ячейка 5 </TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>
+#***************************************3************************************
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE> Задание 3 </TITLE>
+</HEAD>
+<BODY>
+<TABLE>
+<TR>
+<TD> Фамилия </TD>
+<TD> Адрес </TD>
+<TD> Телефон </TD>
+</TR>
+<TR>
+<TD> Иванов </TD>
+<TD> Ленина, 8 </TD>
+<TD> 5554473 </TD>
+</TR>
+<TR>
+<TD> Петров </TD>
+<TD> Суворова, 12</TD>
+<TD> 1234532 </TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>
+#***************************************4************************************
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE> Задание 4 </TITLE>
+</HEAD>
+<meta charset="UTF-8">
+<title>Рамка вокруг таблицы</title>
+<style>
+    table {
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid black;
+    }
+</style>
+</head>
+  <body>
+<TABLE>
+<TR>
+<TH> Месяц </TH>
+<TH> Показания счетчика, кВт </TH>
+<TH> Оплата за месяц, руб  </TH>
+</TR>
+<TR>
+<TD> март </TD>
+<TD ALIGN=CENTER> 1900 </TD> 
+<TD ALIGN=CENTER> 20500</TD>
+</TR>
+<TR>
+<TD> апрель </TD>
+<TD ALIGN=CENTER> 2476</TD>
+<TD ALIGN=CENTER> 15800 </TD>
+</TR>
+<TR>
+<TD> май </TD>
+<TD ALIGN=CENTER> 3263 </TD>
+<TD ALIGN=CENTER> 30100 </TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>
+#***************************************5************************************
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE> Задание 4 </TITLE>
+</HEAD>
+<meta charset="UTF-8">
+<title>Рамка вокруг таблицы</title>
+<style>
+    table {
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid black;
+    }
+</style>
+</head>
+  <body>
+<TABLE>
+<CAPTION> <FONT COLOR=DARKRED> Данные об участниках соревнований </FONT> </CAPTION>
+<TR BGCOLOR=«green»> 
+<TH> № п.п </TH>
+<TH> Фамилия </TH>
+<TH> Дата  </TH>
+<TH> Вес  </TH>
+<TH> Рост  </TH>
+<TH> Пол  </TH>
+<TH> Вид спорта  </TH>
+</TR>
+<TR>
+<TD BGCOLOR="Orange"> 1 </TD>
+<TD> Иванов Иван  </TD> 
+<TD> 1988</TD>
+<TD> 62</TD>
+<TD> 175</TD>
+<TD> М </TD>
+<TD> Футбол</TD>
+</TR>
+<TR>
+<TD BGCOLOR="Orange"> 2 </TD>
+<TD> Петров Петр  </TD> 
+<TD> 1987</TD>
+<TD> 77 </TD>
+<TD> 180 </TD>
+<TD> М </TD>
+<TD> Футбол</TD>
+</TR>
+<TR>
+<TD BGCOLOR="Orange"> 3 </TD>
+<TD> Сидорова Ольга  </TD> 
+<TD> 1988 </TD>
+<TD> 57 </TD>
+<TD> 162 </TD>
+<TD> Ж </TD>
+<TD> Плавание</TD>
+</TR>
+<TR>
+<TD BGCOLOR="Orange"> 3 </TD>
+<TD> Архипова Лена  </TD> 
+<TD> 1987 </TD>
+<TD> 47 </TD>
+<TD> 158 </TD>
+<TD> Ж </TD>
+<TD> фехтование</TD>
+</TR>
+<TR>
+<TD BGCOLOR="Orange"> 2 </TD>
+<TD> Логин Сергей  </TD> 
+<TD> 1986</TD>
+<TD> 92 </TD>
+<TD> 192 </TD>
+<TD> М </TD>
+<TD> Хоккей</TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>
+#***************************************6************************************
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE> Задание 6 </TITLE>
+</HEAD>
+<meta charset="UTF-8">
+<title>Рамка вокруг таблицы</title>
+<style>
+    table {
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid black;
+    }
+</style>
+</head>
+  <body>
+<TABLE>
+<CAPTION> <FONT COLOR="BLUE"> Карточка участника </FONT> </CAPTION>
+<TR BGCOLOR="Yellow"> 
+<TH> Код </TH>
+<TH COLSPAN=3> 1 </TH>
+</TR>
+<TR BGCOLOR="Orange">
+<TH> <FONT COLOR="BLUE"> Фамилия </FONT></TH>
+<TD COLSPAN=3> Иванов Иван  </TD> 
+</TR>
+<TR BGCOLOR="PaleTurquoise">
+<TH> Фото </TH>
+<TD COLSPAN=3> <IMG SRC="Снимок.PNG" WIDTH=150 BORDER=4> </TD> 
+</TR>
+<TR BGCOLOR="green">  
+<TH> <FONT COLOR="RED"> Дата </FONT></TH>
+<TH> <FONT COLOR="RED"> Вес </FONT> </TH> 
+<TH> <FONT COLOR="RED"> Рост </FONT> </TH>
+<TH> <FONT COLOR="RED"> Пол </FONT> </TH>
+</FONT>
+</TR>
+<TR BGCOLOR="green"> 
+<TD> 1988 </TD>
+<TD> 62  </TD> 
+<TD> 175 </TD>
+<TD> М </TD>
+</TR>
+<TR BGCOLOR="Orange">
+<TH> <FONT COLOR="BLUE"> Вид спорта </FONT> </TH>
+<TD COLSPAN=3 ALIGN=CENTER> Футбол  </TD> 
+</TR>
+</TABLE>
+</BODY>
+</HTML>
+#***************************************7************************************
+<!DOCTYPE HTML>
+<HEAD>
+<TITLE> Задание 7 </TITLE>
+</HEAD>
+  <body>
+<TABLE>
+<TR> <TD> <P ALIGN=CENTER> <FONT COLOR="DARKRED"> <B> Правила пведения в кабинете </B> </FONT> </P>
+<OL>
+<LI> При входе в кабинет не толкаться в дверях, спокойно занимать свое рабочее место, ничего не трогать на столе.
+<LI> В кабинете запрещается находиться в верхней одежде.
+<LI> В кабинете запрещается находиться без преподавателя.
+</OL> </TD>
+<TD> 
+<P ALIGN=CENTER> <FONT COLOR="DARKRED"> <B> В кабинете запрещено: </B> </FONT> </P>
+<OL> <I>
+<LI> Трогать разъемы соединительных проводов;
+<LI> Прикасаться к проводам питания;
+<LI> Прикасаться к экрану и задней стенке монитора;
+<LI> Размещать принадлежности на составных блоках компьютера.
+</I> </OL> </TD> </TR>
+<TR> <TD> <P ALIGN=CENTER> <FONT COLOR="RED"> <B> Обязанности учащегося </B> </FONT> </P>
+<P ALIGN=CENTER> <U> <FONT COLOR= DARKBLUE> перед началом работы на ПК: </FONT> </U> </P>
+<UL TYPE=DISC>
+<LI> Убедитесь в отсутствии видимых неисправностей, в случае их обнаружения сообщить преподавателю.
+<LI> Записать в журнале учета дату и время начала работы, свою фамилию и замеченные перед началом работ неисправности. 
+</UL> </TD>
+<TD> <P ALIGN=CENTER> <IMG SRC="dlya_chego_prednaznachen_kompyuter_2.JPG" WIDTH=150 BORDER=4> </P>
+<P ALIGN=CENTER> <U> <FONT COLOR= DARKBLUE> по оканчании работы на ПК: </FONT> </U> </P>
+<UL TYPE=CIRCLE>
+<LI> Привести свое рабочее место в порядок;
+<LI> Выключить компьютер;
+<LI> Записать в журнале учета время окончания работы;
+<LI> Сдать преподавателю выданные для работы материалы пособия.
+</UL> </TD> </TR>
+
+
+
+
+
+
+
